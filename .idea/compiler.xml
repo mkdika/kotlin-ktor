@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="helloworld_main" target="1.8" />
       <module name="helloworld_test" target="1.8" />
+      <module name="ktor-api_main" target="1.8" />
+      <module name="ktor-api_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

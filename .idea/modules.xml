@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworld_main.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworld_main.iml" group="helloworld" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworld_test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworld_test.iml" group="helloworld" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kotlin-ktor.iml" filepath="$PROJECT_DIR$/.idea/kotlin-ktor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktor-api/ktor-api.iml" filepath="$PROJECT_DIR$/ktor-api/ktor-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ktor-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ktor-api_main.iml" group="ktor-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ktor-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ktor-api_test.iml" group="ktor-api" />
     </modules>
   </component>
 </project>
