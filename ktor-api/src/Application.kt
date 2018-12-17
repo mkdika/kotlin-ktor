@@ -14,11 +14,11 @@ import io.ktor.routing.route
 import io.ktor.routing.routing
 import model.PostSnippet
 import model.Snippet
-import java.util.*
+import java.util.Collections.synchronizedList
 
 fun main(args: Array<String>): Unit = io.ktor.server.netty.DevelopmentEngine.main(args)
 
-val snippets = Collections.synchronizedList(mutableListOf(
+val snippets = synchronizedList(mutableListOf(
         Snippet("Hello"),
         Snippet("World")
 ))
